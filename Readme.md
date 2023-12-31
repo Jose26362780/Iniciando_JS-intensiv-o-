@@ -1,6 +1,6 @@
 # Desafio - Iniciando com JavaScript
 
-Esses são alguns exercícios para praticar alguns conceitos básicos de JavaScript. 
+Esses são alguns exercícios para praticar alguns conceitos básicos de JavaScript...
 
 
 > Intensivão - Niveis  01 a 04
